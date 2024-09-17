@@ -21,8 +21,8 @@ class Informacion:
             "Dollar": "Edad: 5",
             "Fany": "Edad: 2"
         }
-        for d in diccionario:
-            print(d)
+        for d, y in diccionario.items():
+            print(d, y)
 
 #Creando el objeto
 
