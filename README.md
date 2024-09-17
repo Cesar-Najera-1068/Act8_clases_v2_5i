@@ -15,7 +15,8 @@ Trabajo con clases y funciones en uno mismo.
 
 - Codigo
   
-  ![image](https://github.com/user-attachments/assets/66b3f290-2a95-4059-9091-b6f4a9a91c84)
+  ![image](https://github.com/user-attachments/assets/2c7e3db9-1589-4683-a9fa-617e150e584f)
+
 
 
 - Resultado
